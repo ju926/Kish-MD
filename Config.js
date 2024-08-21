@@ -22,7 +22,7 @@ global.wm = "Kish botz inc."
 //global.link = 'https://chat.whatsapp.com/KSZD6SLljbOBn1zX2f4lSx'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
